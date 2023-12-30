@@ -1,4 +1,5 @@
-# JEE-Activite-Pratique-2
+# Microservice-Fusion-with-REST-GraphQL
+
 L'objectif de cette activité est de s'initier au développement de microservices en utilisant Spring Boot, en mettant en œuvre un microservice dédié à la gestion de comptes bancaires. Ce microservice sera équipé de deux connecteurs, GraphQL et REST.
 
 ## Travail à faire
